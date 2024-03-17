@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @careytews
 - 👀 I’m interested in all things Devops
-- 🌱 I’m currently learning about LLMs on brilliant.org
+- 🌱 I’m currently learning about LLMs on [brilliant.org](brilliant.org)
 - 📫 How to reach me info@careytews.com
 - ⚡ Fun fact: Runs with scissors
 
